@@ -1,0 +1,9 @@
+pandas
+gradio
+python-dotenv
+datasets
+sqlalchemy
+langchain
+langchain-community
+langchain-openai
+openai
