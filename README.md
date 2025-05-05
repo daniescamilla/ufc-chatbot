@@ -28,7 +28,7 @@ El chatbot agente SQL implementado en el código hace uso del **Procesamiento de
 4. **Procesamiento de la Respuesta:**
 
    - El resultado de la consulta SQL se devuelve y el modelo de PLN lo convierte en una respuesta legible para el usuario.
-   - Ejemplo de respuesta: *"La pelea más corta fue entre Conor McGregor y José Aldo, con una duración de 13 segundos."*
+   - Ejemplo de respuesta: *"La pelea más corta fue entre Ben Askren y Jorge Masvidal"*
 
 ## Transformación del Dataset en una Base de Datos SQL
 
